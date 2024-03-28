@@ -1,4 +1,12 @@
+CREATE DATABASE Musica;
 
+CREATE TABLE musica (
+  ID int,
+  musica varchar(255),
+  artista varchar(255),
+  idioma varchar(255),
+  duracaomin int
+  );
 
 
 INSERT INTO alunos (ID, musica, artista, idioma, duracaomin)
