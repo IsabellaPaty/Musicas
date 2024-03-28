@@ -1,0 +1,25 @@
+
+
+
+INSERT INTO alunos (ID, musica, artista, idioma, duracaomin)
+VALUES
+(1, 'Vampiro de Madueira', 'MC Carol', 'Português', 2),
+(2, 'Perdição', 'L7NNON', 'Português', 5),
+(3, 'Presemte de um Beija-Flor', 'Natiruts', 'Português', 6),
+(4, 'Louquinho', 'Jão', 'Português', 4),
+(5, 'Anos Luz', 'Matûe', 'Português', 5),
+(6, 'A morte do autotune', 'Matûe', 'Português', 4),
+(7, '10 carros', 'Chefin', 'Português', 3),
+(8, 'Meio a Meio', 'The GusT', 'Português', 2),
+(9, 'Love Love', 'Gilson', 'Português', 4),
+(10, 'Delírios', 'FBC', 'Português', 3),
+(11, 'Envolvidão', 'Real', 'Português', 4),
+(12, 'Bom', 'Ludmilla', 'Português', 3),
+(13, 'Amor de fim de noite', 'Orochi', 'Português', 4),
+(14, 'Quem jura Mente', 'MC Luanna', 'Português', 2),
+(15, 'Boquinha', 'Mc Biel', 'Português', 5),
+(16, 'Hoje eu quero me perder', 'Lagum', 'Português', 3),
+(17, 'Personnalite', 'Kant', 'Português', 4),
+(18, 'Droga e Festa', 'orochi', 'Português', 3),
+(19, 'Deixe-me ir', '1 Kilo', 'Português', 4),
+(20, 'Vem Cá', 'Pelé Milflowers', 'Português', 3);
